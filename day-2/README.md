@@ -1,0 +1,1 @@
+todo: create a diagram of my logic
