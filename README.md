@@ -12,6 +12,9 @@ npm install
 
 ```ts
 
-npx ts-node <fila-name>/exercise
+npx ts-node <file>/exercise
 
 ```
+
+### 🔗 Link of Exercise
+- [Advent JS]('https://adventjs.dev/')
